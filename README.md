@@ -1,5 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Jana  
+💻 Computer Science Student  
+🔐 Future Cybersecurity Engineer  
 
+## 🎓 Certifications
+
+<p align="center">
+
+  <a href="https://www.credly.com/badges/9a5c9fe6-7e0f-4bc6-a066-7bcf4f4f3add/public_url">
+    <img src="https://images.credly.com/size/120x120/images/9a5c9fe6-7e0f-4bc6-a066-7bcf4f4f3add.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/af14eff7-4b23-4bb2-ad43-85a972e5c22a/public_url">
+    <img src="https://images.credly.com/size/120x120/images/af14eff7-4b23-4bb2-ad43-85a972e5c22a.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/44dd50b8-15e0-47b5-b615-66db336e886a/public_url">
+    <img src="https://images.credly.com/size/120x120/images/44dd50b8-15e0-47b5-b615-66db336e886a.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/e53d4ec3-18a8-40d0-8e9d-b55262035927/public_url">
+    <img src="https://images.credly.com/size/120x120/images/e53d4ec3-18a8-40d0-8e9d-b55262035927.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/a71fc05e-ec7d-4d95-8b47-f6287cb0cc60/public_url">
+    <img src="https://images.credly.com/size/120x120/images/a71fc05e-ec7d-4d95-8b47-f6287cb0cc60.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/a302ef48-3f6b-41ec-ad9e-b757ecb819d7/public_url">
+    <img src="https://images.credly.com/size/120x120/images/a302ef48-3f6b-41ec-ad9e-b757ecb819d7.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/968b2ff5-1aa2-4925-8cd0-a9d7eb9f8e26/public_url">
+    <img src="https://images.credly.com/size/120x120/images/968b2ff5-1aa2-4925-8cd0-a9d7eb9f8e26.png"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/9997bda7-2213-4ce1-89d3-906058964ae5/public_url">
+    <img src="https://images.credly.com/size/120x120/images/9997bda7-2213-4ce1-89d3-906058964ae5.png"/>
+  </a>
+
+</p>
+
+🔥 Currently learning: Networking | Security | Backend
 <!--
 **jankibananki/jankibananki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
