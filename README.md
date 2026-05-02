@@ -41,7 +41,7 @@
 
 </p>
 
-![banner] (./baner.png)
+![banner](./baner.png)
 
 🔥 Currently learning: Networking | Security | Backend
 <!--
