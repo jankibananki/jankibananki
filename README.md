@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Jana  
+# Hi, I'm Jana  
 💻 Computer Science Student  
 🔐 Future Cybersecurity Engineer  
 
-## 🎓 Certifications
+## Certifications
 
 <p align="center">
 
@@ -16,14 +16,6 @@
 
   <a href="https://www.credly.com/badges/44dd50b8-15e0-47b5-b615-66db336e886a/public_url">
      <img src="./badgelinux.png" width="100"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/e53d4ec3-18a8-40d0-8e9d-b55262035927/public_url">
-     <img src="./badgeeit2.png" width="100"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/a71fc05e-ec7d-4d95-8b47-f6287cb0cc60/public_url">
-     <img src="./badgeeit1.png" width="100"/>
   </a>
 
   <a href="https://www.credly.com/badges/968b2ff5-1aa2-4925-8cd0-a9d7eb9f8e26/public_url">
@@ -41,7 +33,7 @@
 
 </p>
 
-🔥 Currently learning: Networking | Security | Backend
+Currently learning: Networking | Security | Backend
 <!--
 **jankibananki/jankibananki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
