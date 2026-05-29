@@ -33,6 +33,10 @@
 
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankibananki&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jankibananki)
+
 Currently learning: Networking | Security | Backend
 <!--
 **jankibananki/jankibananki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
