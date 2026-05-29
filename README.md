@@ -40,32 +40,8 @@ I am a computer science student passionate about cybersecurity, networking and b
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jankibananki&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jankibananki&theme=tokyonight" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankibananki&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p>
-
----
-
-## Projects and Contributions
-
-### Current Focus
-- Networking fundamentals and CCNA topics  
-- Practical security labs and CTF challenges  
-- Backend development with Python
-
-### Notable Repositories
-- **CTF writeups** — writeups and scripts from recent CTFs  
-- **Networking labs** — packet captures, configs and notes  
-- **Security tools** — small Python tools and automations
-
-_Link or pin your top 3 repos here for quick access._
 
 ---
 
