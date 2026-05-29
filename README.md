@@ -31,14 +31,6 @@ Hi, I'm **Jana**
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jankibananki&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
----
-
 ## Contact
 
 - **Email**: markovicjana@elfak.com  
