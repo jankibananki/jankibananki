@@ -36,15 +36,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jankibananki&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TVOJ_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=jankibananki&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankibananki&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/TVOJ_USERNAME/TVOJ_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/jankibananki/jankibananki/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
