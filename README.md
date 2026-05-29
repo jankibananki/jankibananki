@@ -1,4 +1,4 @@
-# Jana — Computer Science Student and Aspiring Cybersecurity Engineer
+# Computer Science Student and Aspiring Cybersecurity Engineer
 
 Hi, I'm **Jana**  
 💻 Computer Science Student  
@@ -71,9 +71,7 @@ _Link or pin your top 3 repos here for quick access._
 
 ## Contact
 
-- **Email**: your.email@example.com  
-- **LinkedIn**: linkedin.com/in/yourprofile  
-- **Twitter**: @yourhandle
+- **Email**: markovicjana@elfak.com  
 
 ---
 
@@ -93,6 +91,3 @@ _Link or pin your top 3 repos here for quick access._
 
 ---
 
-## License
-
-This repository is licensed under the MIT License. See LICENSE for details.
