@@ -33,10 +33,31 @@
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankibananki&show_icons=true)
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jankibananki)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TVOJ_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/TVOJ_USERNAME/TVOJ_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<div align="center">
 Currently learning: Networking | Security | Backend
 <!--
 **jankibananki/jankibananki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
