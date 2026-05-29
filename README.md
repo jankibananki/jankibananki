@@ -6,12 +6,6 @@ Hi, I'm **Jana**
 
 ---
 
-## About Me
-
-I am a computer science student passionate about cybersecurity, networking and backend development. I enjoy participating in CTFs and learning practical security skills.
-
----
-
 ## Certifications
 
 <p align="center">
@@ -49,21 +43,9 @@ I am a computer science student passionate about cybersecurity, networking and b
 
 - **Email**: markovicjana@elfak.com  
 
----
-
-## Currently Learning
-
-- Networking  
-- Security  
-- Backend development
-
----
-
-## Fun Section
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;CTF+Player;Networking+Enthusiast&center=true&width=500&height=50" alt="typing"/>
 </p>
 
----
 
