@@ -37,7 +37,7 @@ Hi, I'm **Jana**
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;CTF+Player;Networking+Enthusiast&center=true&width=500&height=50" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity;CTF+Player;Expanded+National+Team+ECSC+2026;Networking+Enthusiast&center=true&width=500&height=50" alt="typing"/>
 </p>
 
 
