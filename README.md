@@ -3,7 +3,9 @@
 Computer Science student focused on **cybersecurity, networking, and software development**.
 
 🔐 Aspiring Cybersecurity Engineer
+
 🚩 CTF Player
+
 🇷🇸 Expanded National Team Member — ECSC 2026
 
 ---
