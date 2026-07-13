@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="./jana-ascii.svg" width="49%" alt="Jana Marković — ASCII portrait" />
-  <img src="./info-card.svg" width="49%" alt="Jana Marković — experience, stack and highlights" />
+  <img src="./profile-hero.svg" width="100%" alt="Jana Marković — ASCII cybersecurity profile" />
 </p>
 
 <h1 align="center">Jana Marković</h1>
@@ -21,14 +20,7 @@
 </p>
 
 <details>
-<summary><b>Selected certifications</b></summary>
+<summary><b>ASCII source</b></summary>
 <br/>
-<p align="center">
-  <img src="./badgeccna1.png" width="92" alt="CCNA 1 badge" />
-  <img src="./badgeccna2.png" width="92" alt="CCNA 2 badge" />
-  <img src="./badgeccna3.png" width="92" alt="CCNA 3 badge" />
-  <img src="./badgelinux.png" width="92" alt="Linux badge" />
-  <img src="./badgepython.png" width="92" alt="Python badge" />
-  <img src="./badgerha.png" width="92" alt="Red Hat Academy badge" />
-</p>
+The exact displayed ASCII is stored in <code>jana-ascii.txt</code>. The longer original version is kept in <code>jana-ascii-full.txt</code>.
 </details>
