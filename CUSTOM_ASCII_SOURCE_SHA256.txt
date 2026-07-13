@@ -1,0 +1,2 @@
+This package uses the exact ASCII supplied in message.txt.
+SHA-256 (UTF-8, LF): d56a4d7698bc345e40e5c6844c407609e6a7585a69e78268800683a09c659241
